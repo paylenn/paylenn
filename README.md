@@ -86,41 +86,6 @@
 </div>
 </details>
 
-## Code Life
-
-<div align="center">
-
-```python
-while alive:
-    coffee = Coffee()
-    if coffee.isEmpty():
-        coffee.refill()
-    elif brain.isTired():
-        coffee.drink()
-    else:
-        code.write()
-        bugs.fix()
-        knowledge++
-```
-
-<details>
-<summary>🎮 Execute Program</summary>
-<br>
-
-```
-Loading modules... ██████████ 100%
-Compiling caffeine... ██████████ 100%
-Debugging life... ███████░░░ 70%
-Writing clean code... ████████░░ 80%
-Finding semicolons... ██████████ 100%
-Breaking production... ░░░░░░░░░░ 0%
-```
-
-Status: Living my best code life! 🚀
-</details>
-
-</div>
-
 ## Let's Connect
 
 <div align="center">
