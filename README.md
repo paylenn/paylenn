@@ -4,7 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+💻;Linux+Enthusiast+🐧;LLM+Engineer+🤖;Pentesting+Expert+🔒;Backend+Developer+⚙️;Always+Learning+📚)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Welcome+to+My+Universe!;Where+Code+Meets+Art;Let's+Build+Something+Cool!)](https://git.io/typing-svg)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 <details>
 <summary>🌟 Click here for a surprise!</summary>
@@ -168,3 +172,109 @@ LLM Engineering  ███████████████        75%
   <i>Use ↑↑↓↓←→←→BA to unlock more!</i>
 </div>
 </details>
+
+<!-- Tech Stack Animation -->
+<h2> 🛠️ My Favorite Tech Stack </h2>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+</p>
+
+<!-- Animated Skills -->
+<details>
+<summary>🎯 Click to see my superpowers!</summary>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-de3a2f41-7317-4944-9d51-8d8222b53385.gif" width="400">
+</div>
+
+<h3 align="center">Skills Progress</h3>
+
+```text
+Linux & Bash     [██████████] 100%
+Backend Dev      [█████████░]  90%
+Web Development  [████████░░]  80%
+Pentesting       [████████░░]  80%
+LLM Engineering  [███████░░░]  70%
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-Expert-brightgreen?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Pentesting-Ninja-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/LLM-Wizard-blue?style=for-the-badge&logo=openai" />
+</div>
+</details>
+
+<!-- Animated Stats -->
+<details>
+<summary>📊 GitHub Stats Magic</summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paylenn&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paylenn&show_icons=true&theme=radical&hide_border=true" width="49%" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paylenn&theme=redical&hide_border=true" width="100%">
+</details>
+
+<!-- Fun Zone -->
+<details>
+<summary>🎮 Entertainment Zone</summary>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+  
+  <h3>⚡ Daily Routine:</h3>
+  
+```python
+while alive:
+    if coffee.isEmpty():
+        coffee.refill()
+    elif brain.isTired():
+        coffee.drink()
+    else:
+        code.write()
+        knowledge.acquire()
+```
+
+</div>
+</details>
+
+<!-- Connect Section -->
+<h2 align="center">
+  Let's Connect!
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50">
+</h2>
+
+<div align="center">
+  <a href="https://github.com/paylenn">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
+  </a>
+  <a href="mailto:paylenno@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
+  </a>
+  <a href="https://linkedin.com/in/paylenn">
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
+  </a>
+</div>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/paylenn/count.svg" alt="Visitor Count">
+</div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paylenn/paylenn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paylenn/paylenn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paylenn/paylenn/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%">
+</div>
