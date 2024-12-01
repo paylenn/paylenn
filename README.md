@@ -86,11 +86,39 @@
 </div>
 </details>
 
-## GitHub Stats
+## Code Life
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paylenn&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paylenn&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+
+```python
+while alive:
+    coffee = Coffee()
+    if coffee.isEmpty():
+        coffee.refill()
+    elif brain.isTired():
+        coffee.drink()
+    else:
+        code.write()
+        bugs.fix()
+        knowledge++
+```
+
+<details>
+<summary>🎮 Execute Program</summary>
+<br>
+
+```
+Loading modules... ██████████ 100%
+Compiling caffeine... ██████████ 100%
+Debugging life... ███████░░░ 70%
+Writing clean code... ████████░░ 80%
+Finding semicolons... ██████████ 100%
+Breaking production... ░░░░░░░░░░ 0%
+```
+
+Status: Living my best code life! 🚀
+</details>
+
 </div>
 
 ## Let's Connect
